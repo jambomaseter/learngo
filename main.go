@@ -1,1 +1,5 @@
-df
+package main
+
+func main() {
+
+}
